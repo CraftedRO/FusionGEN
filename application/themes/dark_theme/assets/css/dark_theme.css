@@ -1,0 +1,60 @@
+/* Dark theme overrides */
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+a {
+    color: #00aaff;
+}
+
+#header, #footer {
+    background-color: #111111;
+}
+
+#topbar {
+    background-color: #000000;
+}
+
+.side-box .side-box-title {
+    background-color: #222222;
+    border-bottom: 1px solid #333333;
+}
+
+.side-box .side-box-content {
+    background-color: #222222;
+}
+
+.nice_button {
+    background-color: #00aaff;
+    color: #ffffff;
+}
+
+.nice_button:hover {
+    background-color: #0077cc;
+}
+
+#slider .slide-text {
+    color: #ffffff;
+}
+
+#content .page-title {
+    color: #ffffff;
+}
+
+#content .page-content {
+    background-color: #222222;
+    border: 1px solid #333333;
+}
+
+.news-article .news-title {
+    color: #ffffff;
+}
+
+.news-article .news-content {
+    color: #cccccc;
+}
+
+.news-article .news-info {
+    color: #999999;
+}
